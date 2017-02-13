@@ -19,6 +19,7 @@ import org.xutils.x;
 @ContentView(R.layout.activity_main)
 public class MainActivity extends AppCompatActivity {
 
+
     //get请求
 //    private String pathGet = "http://app.vmoiver.com/apiv3/post/getPostInCate?cateid=0&p=1";
     private String pathGet ="http://news-at.zhihu.com/api/4/story/8955123";
